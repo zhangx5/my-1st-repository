@@ -8,3 +8,7 @@ notes
 4. copy the public key (created in the top section) into the file and save
 
 [instruction on PuTTyGen](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows)
+
+
+this part is added in vi from SSH
+test
